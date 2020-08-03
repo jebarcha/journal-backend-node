@@ -1,0 +1,23 @@
+MongoDB Compass
+mongodb+srv://mern_user:gS5NYyaRf10jDQrn@cluster0.yiqh3.mongodb.net/?authSource=admin&replicaSet=atlas-1db26u-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true
+
+
+api path:
+https://mern-calendar-demo.herokuapp.com
+
+como ver los logs en heroku? console.log
+heroku logs -n 1000 --tail
+
+-----------------------------
+login:
+Opening browser to https://cli-auth.heroku.com/auth/cli/browser/723fbbc5-e3bf-4d
+54-9263-046fab838be3
+
+===========================================
+remote: Verifying deploy... done.
+To https://git.heroku.com/mern-calendar-demo.git
+ * [new branch]      master -> master
+
+
+git remote -v  (ver repos)
+
